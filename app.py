@@ -3,7 +3,7 @@ import pytrends
 from pytrends.request import TrendReq
 import pandas as pd
 
-from io import StringIO
+
 
 from googlesearch import search
 
