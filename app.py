@@ -1,5 +1,4 @@
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 import pytrends
 from pytrends.request import TrendReq
 import pandas as pd
@@ -10,29 +9,27 @@ from googlesearch import search
 
 import time
 import datetime
-import urllib.request
+
 from datetime import datetime, date, time
 from flask import Flask,render_template,request,make_response
-import matplotlib.pyplot as plt
+
 from bidi.algorithm import get_display
 import bidi
-import urllib.parse
+
 import requests
-import tkinter as tk
+
 from bs4 import BeautifulSoup
 import re
 import os
-from wordcloud import WordCloud
-import arabic_reshaper
+
+
 from bidi.algorithm import get_display
-from tkinter import *
-from tkinter import ttk
-import tkinter as tk
+
 from pandastable import Table
 import pandas as pd
 import time
-import datetime
-from datetime import datetime, date, time
+
+
 from time import sleep
 from collections import Counter
        
